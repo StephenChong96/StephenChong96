@@ -1,4 +1,4 @@
-### Hi there, I'm Stephen 👋
+### Hi there, I'm Stephen 👋🏻
 
 [![Website](https://img.shields.io/website?label=Facebook.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.facebook.com/stephenchong1996/)
 
