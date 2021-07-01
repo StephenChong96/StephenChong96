@@ -4,7 +4,7 @@
 
 ## I'm Enthusiastic About Engineering and Computer Science!
 
-- 🎯 Lifetime Goals: Commit to lifelong learning 📚
+- 🎯 Lifetime goals: Commit to lifelong learning 📚
 - 🖥️ The power of PCB is fascinated
 - ⭐ I believe everyone has untapped potential 
 - :electron: Fun facts: I believe in Law of Attraction
