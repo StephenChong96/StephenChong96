@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Facebook.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.facebook.com/stephenchong1996/)
 
-## I'm Enthusiast About Engineering and Computer Science!
+## I'm Enthusiastic About Engineering and Computer Science!
 
 - 🎯 Lifetime Goals: Commit to lifelong learning 📚
 - 🖥️ The power of PCB is fascinated
