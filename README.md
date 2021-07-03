@@ -20,7 +20,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/8ef390c886f7a15061d158d419ed7cf970551fc8/Extra/Python.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/8ef390c886f7a15061d158d419ed7cf970551fc8/Extra/visual%20studio%20code%20colour.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/c130924248093f6f4ad0b722eb7933b16a05f906/Extra/git.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/401e6796cf961a3a1b9a792ba9de49b3297f08d0/Extra/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/c130924248093f6f4ad0b722eb7933b16a05f906/Extra/gith" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/c130924248093f6f4ad0b722eb7933b16a05f906/Extra/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/StephenChong96/StephenChong96/c130924248093f6f4ad0b722eb7933b16a05f906/Extra/console%20colour.svg" />
 
